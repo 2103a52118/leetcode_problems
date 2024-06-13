@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/2103a52118/leetcode_problems/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/2103a52118/leetcode_problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0049-group-anagrams](https://github.com/2103a52118/leetcode_problems/tree/master/0049-group-anagrams) |
 | [0238-product-of-array-except-self](https://github.com/2103a52118/leetcode_problems/tree/master/0238-product-of-array-except-self) |
 | [0605-can-place-flowers](https://github.com/2103a52118/leetcode_problems/tree/master/0605-can-place-flowers) |
@@ -75,3 +76,11 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/2103a52118/leetcode_problems/tree/master/0002-add-two-numbers) |
+# Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/2103a52118/leetcode_problems/tree/master/0004-median-of-two-sorted-arrays) |
+# Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/2103a52118/leetcode_problems/tree/master/0004-median-of-two-sorted-arrays) |
