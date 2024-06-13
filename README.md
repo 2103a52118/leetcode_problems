@@ -26,8 +26,13 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/2103a52118/leetcode_problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/2103a52118/leetcode_problems/tree/master/0020-valid-parentheses) |
 | [0409-longest-palindrome](https://github.com/2103a52118/leetcode_problems/tree/master/0409-longest-palindrome) |
 # Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/2103a52118/leetcode_problems/tree/master/0003-longest-substring-without-repeating-characters) |
+# Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/2103a52118/leetcode_problems/tree/master/0020-valid-parentheses) |
