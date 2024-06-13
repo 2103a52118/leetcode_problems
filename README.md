@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/2103a52118/leetcode_problems/tree/master/0001-two-sum) |
 | [0605-can-place-flowers](https://github.com/2103a52118/leetcode_problems/tree/master/0605-can-place-flowers) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/2103a52118/leetcode_problems/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2714-left-and-right-sum-differences](https://github.com/2103a52118/leetcode_problems/tree/master/2714-left-and-right-sum-differences) |
 # Hash Table
 |  |
@@ -36,3 +37,12 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/2103a52118/leetcode_problems/tree/master/0020-valid-parentheses) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/2103a52118/leetcode_problems/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+# Queue
+|  |
+| ------- |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/2103a52118/leetcode_problems/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+# Simulation
+|  |
+| ------- |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/2103a52118/leetcode_problems/tree/master/1802-number-of-students-unable-to-eat-lunch) |
