@@ -89,3 +89,19 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/2103a52118/leetcode_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+# Depth-First Search
+|  |
+| ------- |
+| [0210-course-schedule-ii](https://github.com/2103a52118/leetcode_problems/tree/master/0210-course-schedule-ii) |
+# Breadth-First Search
+|  |
+| ------- |
+| [0210-course-schedule-ii](https://github.com/2103a52118/leetcode_problems/tree/master/0210-course-schedule-ii) |
+# Graph
+|  |
+| ------- |
+| [0210-course-schedule-ii](https://github.com/2103a52118/leetcode_problems/tree/master/0210-course-schedule-ii) |
+# Topological Sort
+|  |
+| ------- |
+| [0210-course-schedule-ii](https://github.com/2103a52118/leetcode_problems/tree/master/0210-course-schedule-ii) |
