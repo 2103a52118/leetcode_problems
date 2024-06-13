@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/2103a52118/leetcode_problems/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/2103a52118/leetcode_problems/tree/master/0049-group-anagrams) |
+| [0238-product-of-array-except-self](https://github.com/2103a52118/leetcode_problems/tree/master/0238-product-of-array-except-self) |
 | [0605-can-place-flowers](https://github.com/2103a52118/leetcode_problems/tree/master/0605-can-place-flowers) |
 | [1319-unique-number-of-occurrences](https://github.com/2103a52118/leetcode_problems/tree/master/1319-unique-number-of-occurrences) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/2103a52118/leetcode_problems/tree/master/1802-number-of-students-unable-to-eat-lunch) |
@@ -26,6 +27,7 @@
 # Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/2103a52118/leetcode_problems/tree/master/0238-product-of-array-except-self) |
 | [2714-left-and-right-sum-differences](https://github.com/2103a52118/leetcode_problems/tree/master/2714-left-and-right-sum-differences) |
 # String
 |  |
